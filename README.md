@@ -2,8 +2,9 @@
 
 ## Description
 
-This is a refactor of the horiseon website to...
+This is a refactor of the horiseon website to make the site accessible. This is done by adding semantic HTML elements.
+image and icon elements all contain alt text.
 
 ## screenshot
 
-## link
+## https://temioye.github.io/horiseon-code-refactor/
